@@ -1,0 +1,2 @@
+config:
+  info: master.SpringCloud-Config.git/config-dev.yml varsion=1.0
